@@ -6,6 +6,7 @@
 ### Creational Patterns
  * Abstract Factory
  * Singleton
+
 ### Structural Patterns
 ### Behavioral Patterns
 ### Concurrency Patterns
